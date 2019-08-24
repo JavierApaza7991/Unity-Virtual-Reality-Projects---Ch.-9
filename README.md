@@ -1,4 +1,4 @@
-# Implementación del capítulo 9 del libro Unity Virtual Reality Projects
+# Implementación del capítulo 1 al 9 del libro Unity Virtual Reality Projects
 
 Curso: Multimedia y Realidad Virtual
 
